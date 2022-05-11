@@ -58,5 +58,5 @@ model.fit(X_train, Y_train)
 prediction_test = model.predict(X_test)
 
 print("Accuracy = ", metrics.accuracy_score(Y_test, prediction_test))
-entries = ['SVT BAC','Oui',5,3,1,5,5,5,2]
+entries = ['SVT BAC','Non',5,3,1,5,5,5,2]
 print(encoder.inverse_transform(model.predict(getIt(entries))))
