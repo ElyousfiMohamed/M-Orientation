@@ -1,20 +1,26 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { AppComponent } from './app.component';
 import { NavComponent } from './component/nav/nav.component';
 import { HeaderComponent } from './component/header/header.component';
+import { BannerComponent } from './component/banner/banner.component';
+import { ContainerComponent } from './component/container/container.component';
+import { AboutPrjComponent } from './component/about-prj/about-prj.component';
+import { OurTeamComponent } from './component/our-team/our-team.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
     NavComponent,
-    HeaderComponent
+    HeaderComponent,
+    BannerComponent,
+    ContainerComponent,
+    AboutPrjComponent,
+    OurTeamComponent,
   ],
   imports: [
     BrowserModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [ContainerComponent]
 })
 export class AppModule { }
