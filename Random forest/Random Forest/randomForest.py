@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import metrics
 
 # read the dataSet
-dataset = pd.read_excel('Data4.xlsx')
+dataset = pd.read_excel('syn_data.xlsx')
 inputs = dataset.drop('Domaine après Baccalauréat', axis = 'columns')
 
 # variables
@@ -50,7 +50,7 @@ inputs_encoded = inputs.drop(inputs.columns[[0, 1, 2, 3, 4, 5, 6, 7, 8]], axis='
 
 # Train the model
 X_train, X_test, Y_train, Y_test = train_test_split(inputs_encoded, target_encoded,test_size=0.2, random_state=30)
-model = RandomForestClassifier(n_estimators=200, random_state=30)
+model = RandomForestClassifier(n_estimators=300, random_state=30)
 model.fit(X_train, Y_train)
 prediction_test = model.predict(X_test)
 
