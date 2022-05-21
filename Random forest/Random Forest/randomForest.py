@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import metrics
 
 # read the dataSet
-dataset = pd.read_excel('syn_data.xlsx')
+dataset = pd.read_excel('rss/syn_data.xlsx')
 inputs = dataset.drop('Domaine après Baccalauréat', axis = 'columns')
 
 # variables

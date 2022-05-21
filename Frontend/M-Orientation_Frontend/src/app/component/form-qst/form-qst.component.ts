@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {NgForm} from "@angular/forms";
 import {InputsService} from "../../service/inputs.service";
+import {Router} from "@angular/router";
 
 @Component({
   selector: 'app-form-qst',
@@ -12,7 +13,7 @@ export class FormQstComponent implements OnInit {
   captcha: string;
   email: string;
 
-  constructor(private service:InputsService) {
+  constructor(private service:InputsService, private router:Router) {
     this.captcha = '';
     this.email = 'm.elyousfi_etu@enset-media.ac.ma';
   }
@@ -23,7 +24,7 @@ export class FormQstComponent implements OnInit {
   onValidate(input: NgForm) {
     this.service.getOutput(input.value).subscribe({
       next : (data)=>{
-        console.log(data);
+        this.router.navigate(["/result",data ])
       },
       error : (err)=>{
         console.log(err);
@@ -35,5 +36,4 @@ export class FormQstComponent implements OnInit {
     this.captcha = captchaResponse;
     console.log('resolved captcha with response: ' + this.captcha);
   }
-
 }

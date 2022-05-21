@@ -1,0 +1,46 @@
+.container {
+  position:relative;
+  background: url("../../../assets/images/o-background.jpg") no-repeat fixed center center;
+  background-size: cover;
+  padding: 100px 100px 30px 100px;
+  max-width: 100%;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  position: relative;
+  height: 100%;
+  color: #fff;
+  text-align: center;
+  z-index: 1;
+}
+.title h1 {
+  font-weight: 800;
+  font-size: 4rem;}
+.title p {
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+
+.result {
+  text-align: center;
+  font-size: 20px;
+}
+
+.conteneur {
+  margin: 100px 50px 100px 50px;
+  text-align: center;
+}
+
+.col {
+  border: solid 1px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  margin: 20px 0 20px 0;
+}
+

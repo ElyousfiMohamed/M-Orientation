@@ -1,3 +1,27 @@
+.container {
+  position:relative;
+  background-size: cover;
+  padding: 100px 0 0 0;
+  max-width: 100%;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  position: relative;
+  color: #fff;
+  text-align: center;
+  z-index: 1;
+}
+.title h1 {
+  font-weight: 800;
+  font-size: 4rem;}
+.title p {
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+
+
 .row {
   position: relative;
   max-width: inherit;
@@ -26,12 +50,11 @@
   justify-content: center;
   -webkit-align-items: center;
   align-items: center;
-  margin-top: 100px;
   margin-bottom: 100px;
 }
 
 .form-content .form-items {
-  background-color: #404040;
+  background-color: rgba(96, 96, 96, 0.83);
   border: 3px solid #fff;
   padding: 40px;
   display: flex;

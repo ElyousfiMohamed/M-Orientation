@@ -1,0 +1,28 @@
+.about {
+  text-align: justify;
+  padding: 20px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  position: relative;
+  height: 100%;
+  color: #fff;
+  text-align: center;
+  z-index: 1;
+}
+.title h1 {
+  font-weight: 800;
+  font-size: 4rem;}
+.title p {
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+
+.conteneur {
+  margin: 0 100px 0 100px;
+  position:relative;
+  background: url("../../../assets/images/o-background.jpg") no-repeat fixed center center;
+  background-size: cover;
+}

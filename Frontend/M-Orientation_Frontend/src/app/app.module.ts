@@ -14,6 +14,14 @@ import {HttpClientModule} from "@angular/common/http";
 import {RecaptchaModule} from "ng-recaptcha";
 import { FooterComponent } from './component/footer/footer.component';
 import { ConseilsComponent } from './component/conseils/conseils.component';
+import { TeamPageComponent } from './component/team-page/team-page.component';
+import { AboutComponent } from './component/about/about.component';
+import { ContactComponent } from './component/contact/contact.component';
+import { MailSuccessComponent } from './component/mail-success/mail-success.component';
+import { MailFailedComponent } from './component/mail-failed/mail-failed.component';
+import { ResultComponent } from './component/result/result.component';
+import { ChartGenderComponent } from './component/chart-gender/chart-gender.component';
+
 
 @NgModule({
   declarations: [
@@ -25,6 +33,13 @@ import { ConseilsComponent } from './component/conseils/conseils.component';
     FormQstComponent,
     FooterComponent,
     ConseilsComponent,
+    TeamPageComponent,
+    AboutComponent,
+    ContactComponent,
+    MailSuccessComponent,
+    MailFailedComponent,
+    ResultComponent,
+    ChartGenderComponent,
   ],
     imports: [
         BrowserModule,

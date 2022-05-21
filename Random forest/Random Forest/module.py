@@ -10,3 +10,8 @@ class Entry(BaseModel):
     travail_stress: int
     travail_groupe: int
     impl_expl: int
+
+class Mail(BaseModel):
+    name:str
+    email:str
+    message:str

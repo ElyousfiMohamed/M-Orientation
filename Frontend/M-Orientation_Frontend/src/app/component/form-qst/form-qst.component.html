@@ -1,121 +1,137 @@
-<div>
-  <div class="form-body">
-    <div class="row">
-      <div class="form-holder">
-        <div class="form-content">
-          <div class="form-items">
-            <h3>Remplissez le formulaire</h3>
-            <p>Pour essayer le test</p>
-            <form #input="ngForm" (ngSubmit)="onValidate(input)">
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="filiere" required>
-                  <option selected disabled value="">Filière Baccalaureat</option>
-                  <option value="BAC SCIENCES ÉCONOMIQUES">BAC SCIENCES ÉCONOMIQUES</option>
-                  <option value="BAC TECHNIQUES">BAC TECHNIQUES</option>
-                  <option value="SVT BAC">SVT BAC</option>
-                  <option value="BAC LETTRES">BAC LETTRES</option>
-                  <option value="BAC SCIENCES MATHÉMATIQUES">BAC SCIENCES MATHÉMATIQUES</option>
-                  <option value="SCIENCES HUMAINES">SCIENCES HUMAINES</option>
-                  <option value="BAC SCIENCES PHYSIQUES">BAC SCIENCES PHYSIQUES</option>
-                  <option value="BAC SCIENCES ET TECHNOLOGIES MÉCANIQUES">BAC SCIENCES ET TECHNOLOGIES MÉCANIQUES
-                  </option>
-                  <option value="BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES">BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES
-                  </option>
-                </select>
-              </div>
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="certification" required>
-                  <option selected disabled value="">Essayez-vous de passer des certifications ?</option>
-                  <option value="Non">Non</option>
-                  <option value="Oui">Oui</option>
-                </select>
-              </div>
+<div class="container">
+  <div class="title mb-5"
+       style="display: flex;flex-direction: column;justify-content: center;align-items: center;margin-top: 20px">
+    <h1 style="text-align: center">Remplissez le formulaire</h1>
+    <p>Pour essayer le test</p>
+  </div>
+  <div>
+    <div class="form-body">
+      <div class="row">
+        <div class="form-holder">
+          <div class="form-content">
+            <div class="form-items">
+              <h3 class="pb-4">M'ORIENTATION</h3>
+              <form #input="ngForm" (ngSubmit)="onValidate(input)">
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="filiere" required>
+                    <option selected disabled value="">Filière Baccalaureat</option>
+                    <option value="BAC SCIENCES ÉCONOMIQUES">BAC SCIENCES ÉCONOMIQUES</option>
+                    <option value="BAC TECHNIQUES">BAC TECHNIQUES</option>
+                    <option value="SVT BAC">SVT BAC</option>
+                    <option value="BAC LETTRES">BAC LETTRES</option>
+                    <option value="BAC SCIENCES MATHÉMATIQUES">BAC SCIENCES MATHÉMATIQUES</option>
+                    <option value="SCIENCES HUMAINES">SCIENCES HUMAINES</option>
+                    <option value="BAC SCIENCES PHYSIQUES">BAC SCIENCES PHYSIQUES</option>
+                    <option value="BAC SCIENCES ET TECHNOLOGIES MÉCANIQUES">BAC SCIENCES ET TECHNOLOGIES MÉCANIQUES
+                    </option>
+                    <option value="BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES">BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES
+                    </option>
+                  </select>
+                </div>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="certification" required>
+                    <option selected disabled value="">Essayez-vous de passer des certifications ?</option>
+                    <option value="Non">Non</option>
+                    <option value="Oui">Oui</option>
+                  </select>
+                </div>
 
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="niveau_fr" required>
-                  <option selected disabled value="">Comment mesurez-vous votre niveau en langue française ?</option>
-                  <option value="1">1 - Trés faible</option>
-                  <option value="2">2 - Faible</option>
-                  <option value="3">3 - Moyen</option>
-                  <option value="4">4 - Bon</option>
-                  <option value="5">5 - Trés bon</option>
-                </select>
-              </div>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="niveau_fr" required>
+                    <option selected disabled value="">Comment mesurez-vous votre niveau en langue française ?</option>
+                    <option value="1">1 - Trés faible</option>
+                    <option value="2">2 - Faible</option>
+                    <option value="3">3 - Moyen</option>
+                    <option value="4">4 - Bon</option>
+                    <option value="5">5 - Trés bon</option>
+                  </select>
+                </div>
 
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="niveau_en" required>
-                  <option selected disabled value="">Comment mesurez-vous votre niveau en langue anglaise ?</option>
-                  <option value="1">1 - Trés faible</option>
-                  <option value="2">2 - Faible</option>
-                  <option value="3">3 - Moyen</option>
-                  <option value="4">4 - Bon</option>
-                  <option value="5">5 - Trés bon</option>
-                </select>
-              </div>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="niveau_en" required>
+                    <option selected disabled value="">Comment mesurez-vous votre niveau en langue anglaise ?</option>
+                    <option value="1">1 - Trés faible</option>
+                    <option value="2">2 - Faible</option>
+                    <option value="3">3 - Moyen</option>
+                    <option value="4">4 - Bon</option>
+                    <option value="5">5 - Trés bon</option>
+                  </select>
+                </div>
 
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="niveau_math" required>
-                  <option selected disabled value="">Comment mesurez-vous votre niveau en mathématique ?</option>
-                  <option value="1">1 - Trés faible</option>
-                  <option value="2">2 - Faible</option>
-                  <option value="3">3 - Moyen</option>
-                  <option value="4">4 - Bon</option>
-                  <option value="5">5 - Trés bon</option>
-                </select>
-              </div>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="niveau_math" required>
+                    <option selected disabled value="">Comment mesurez-vous votre niveau en mathématique ?</option>
+                    <option value="1">1 - Trés faible</option>
+                    <option value="2">2 - Faible</option>
+                    <option value="3">3 - Moyen</option>
+                    <option value="4">4 - Bon</option>
+                    <option value="5">5 - Trés bon</option>
+                  </select>
+                </div>
 
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="adap_chang" required>
-                  <option selected disabled value="">Comment mesurez-vous votre capacité à adapter à des changements continus ?</option>
-                  <option value="1">1 - Trés faible</option>
-                  <option value="2">2 - Faible</option>
-                  <option value="3">3 - Moyenne</option>
-                  <option value="4">4 - Bonne</option>
-                  <option value="5">5 - Trés bonne</option>
-                </select>
-              </div>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="adap_chang" required>
+                    <option selected disabled value="">Comment mesurez-vous votre capacité à adapter à des changements
+                      continus ?
+                    </option>
+                    <option value="1">1 - Trés faible</option>
+                    <option value="2">2 - Faible</option>
+                    <option value="3">3 - Moyenne</option>
+                    <option value="4">4 - Bonne</option>
+                    <option value="5">5 - Trés bonne</option>
+                  </select>
+                </div>
 
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="travail_stress" required>
-                  <option selected disabled value="">Comment mesurez-vous votre capacité à travailler sous pression ?</option>
-                  <option value="1">1 - Trés faible</option>
-                  <option value="2">2 - Faible</option>
-                  <option value="3">3 - Moyenne</option>
-                  <option value="4">4 - Bonne</option>
-                  <option value="5">5 - Trés bonne</option>
-                </select>
-              </div>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="travail_stress" required>
+                    <option selected disabled value="">Comment mesurez-vous votre capacité à travailler sous pression
+                      ?
+                    </option>
+                    <option value="1">1 - Trés faible</option>
+                    <option value="2">2 - Faible</option>
+                    <option value="3">3 - Moyenne</option>
+                    <option value="4">4 - Bonne</option>
+                    <option value="5">5 - Trés bonne</option>
+                  </select>
+                </div>
 
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="travail_groupe" required>
-                  <option selected disabled value="">Comment mesurez-vous votre capacité à travailler en groupe ?</option>
-                  <option value="1">1 - Trés faible</option>
-                  <option value="2">2 - Faible</option>
-                  <option value="3">3 - Moyenne</option>
-                  <option value="4">4 - Bonne</option>
-                  <option value="5">5 - Trés bonne</option>
-                </select>
-              </div>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="travail_groupe" required>
+                    <option selected disabled value="">Comment mesurez-vous votre capacité à travailler en groupe ?
+                    </option>
+                    <option value="1">1 - Trés faible</option>
+                    <option value="2">2 - Faible</option>
+                    <option value="3">3 - Moyenne</option>
+                    <option value="4">4 - Bonne</option>
+                    <option value="5">5 - Trés bonne</option>
+                  </select>
+                </div>
 
-              <div class="col-md-12">
-                <select class="form-select mt-3" ngModel name="impl_expl" required>
-                  <option selected disabled value="">Est-ce que vous avez besoin que l’information soit explicite pour comprendre ?</option>
-                  <option value="1">1 - Je suis besoin que l'information soit explicite</option>
-                  <option value="2">2 - Je peut comprendre avec le moindre d’information possible</option>
-                </select>
-              </div><br>
+                <div class="col-md-12">
+                  <select class="form-select mt-3 bg-dark text-white" ngModel name="impl_expl" required>
+                    <option selected disabled value="">Est-ce que vous avez besoin que l’information soit explicite pour
+                      comprendre ?
+                    </option>
+                    <option value="1">1 - Je suis besoin que l'information soit explicite</option>
+                    <option value="2">2 - Je peut comprendre avec le moindre d’information possible</option>
+                  </select>
+                </div>
+                <br>
 
-              <div [hidden]="captcha">
-                <re-captcha (resolved)="resolved($event)" siteKey="6Ld52gEgAAAAAOz7XeGvzeBlTq6klEwDfBKqxZSZ" required></re-captcha>
-              </div>
-              <div [hidden]="!captcha">
-                <p>Remplir le formulaire, puis cliquer sur "valider" pour obtenir votre résultat</p>
-              </div>
+                <div [hidden]="captcha">
+                  <re-captcha (resolved)="resolved($event)" siteKey="6Ld52gEgAAAAAOz7XeGvzeBlTq6klEwDfBKqxZSZ"
+                              required></re-captcha>
+                </div>
+                <div [hidden]="!captcha">
+                  <p>Remplir le formulaire, puis cliquer sur "valider" pour obtenir votre résultat</p>
+                </div>
 
-              <div class="form-button mt-3">
-                <button [disabled]="input.invalid || captcha === ''" type="submit" class="btn btn-primary">Valider</button>
-              </div>
-            </form>
+                <div class="form-button mt-3">
+                  <button [disabled]="input.invalid || captcha === ''" type="submit" class="btn btn-primary">Valider
+                  </button>
+                </div>
+              </form>
+            </div>
           </div>
         </div>
       </div>

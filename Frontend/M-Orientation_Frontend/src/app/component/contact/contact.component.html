@@ -1,0 +1,85 @@
+<div class="conteneur" style="padding-top: 100px">
+  <div class="title mb-5"
+       style="display: flex;flex-direction: column;justify-content: center;align-items: center;margin-top: 20px">
+    <h1 style="text-align: center">CONTACTEZ-NOUS</h1>
+    <p>Pour toute information ou clarification sur le projet, veuillez nous contactez</p>
+  </div>
+  <div class="row">
+    <div class="col-lg-12 col-md-12 col-12">
+      <div class="card service-wrapper rounded border-0 shadow p-4">
+        <div class="icon text-center text-custom h1 shadow rounded bg-white">
+          <span class="uim-svg" style=""></span>
+        </div>
+        <div class="content p-5">
+          <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+          <div class="container bootstrap snippets bootdeys">
+            <div class="row text-center">
+              <div class="col-sm-4">
+                <div class="contact-detail-box">
+                  <i class="fa fa-th fa-3x text-colored" style="color: #1E4A25"></i>
+                  <h4><b>Contact</b></h4>
+                  Phone: <a class="text-muted" href="tel:+212622427363" style="text-decoration: none">+212622427363</a><br>
+                  Email: <a href="mailto:m.orientation.22@gmail.com" class="text-muted" style="text-decoration: none">m.orientation.22@gmail.com</a>
+                </div>
+              </div><!-- end col -->
+
+              <div class="col-sm-4">
+                <div class="contact-detail-box">
+                  <i class="fa fa-map-marker fa-3x text-colored" style="color: #1E4A25"></i>
+                  <h4><b>Notre emplacement</b></h4>
+                  <address>
+                    BP 159 Mohammedia Principale<br>
+                    Boulevard Hassan II Mohammedia<br>
+                  </address>
+                </div>
+              </div><!-- end col -->
+            </div>
+            <!-- end row -->
+
+
+            <div class="row p-5">
+              <div class="col-sm-6">
+                <div class="contact-map">
+                  <iframe src="https://www.google.com/maps/embed/v1/place?q=ENSET+Mohammedia&amp;key=AIzaSyBSFRN6WWGYwmFi498qXXsD2UwkbmD74v4" style="width: 100%; height: 300px;"></iframe>
+                </div>
+              </div><!-- end col -->
+
+              <!-- Contact form -->
+              <div class="col-sm-6">
+                <form (ngSubmit)="submitForm()" #contactForm="ngForm">
+
+                  <div class="form-group pb-4">
+                    <label for="name">Name</label>
+                    <input class="form-control" id="name" name="name" [(ngModel)]="name" #nameInput="ngModel" onblur="if(this.value == '') this.value='Name'" onfocus="if(this.value == 'Name') this.value=''" type="text" value="Name" required>
+                    <div class="help" *ngIf="nameInput.invalid">votre nom est requis</div>
+                  </div> <!-- /Form-name -->
+
+                  <div class="form-group pb-4">
+                    <label for="email">Email</label>
+                    <input class="form-control" id="email" name="email" [(ngModel)]="email" #emailInput="ngModel" type="text" onfocus="if(this.value == 'E-mail') this.value='';" onblur="if(this.value == '') this.value='E-mail';" value="E-mail" required>
+                    <div class="help" *ngIf="emailInput.invalid">votre email est requis</div>
+                  </div> <!-- /Form-email -->
+
+                  <div class="form-group pb-4">
+                    <label for="message">Message</label>
+                    <textarea class="form-control" id="message" name="message" [(ngModel)]="message" #messageInput="ngModel" rows="5" onblur="if(this.value == '') this.value='Message'" onfocus="if(this.value == 'Message') this.value=''" required>Message</textarea>
+                    <div class="help" *ngIf="messageInput.invalid">un message est requis</div>
+                  </div> <!-- /col -->
+
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <button type="submit" class="btn btn-primary btn-rounded w-md" id="send" [disabled]="contactForm.invalid">Envoyez</button>
+                    </div> <!-- /col -->
+                  </div> <!-- /row -->
+
+                </form> <!-- /form -->
+              </div> <!-- end col -->
+
+            </div> <!-- end row -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<app-our-team></app-our-team>
