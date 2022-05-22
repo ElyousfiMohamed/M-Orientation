@@ -33,6 +33,18 @@
   text-align: center;
 }
 
+.btn-primary {
+  border-color: #285b2f;
+  background-color: #1E4A25;
+  color: #FAFAFA;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.btn-primary:hover {
+  background-color: #06230b;
+}
+
 .col {
   border-left: solid 1px black;
   display: flex;

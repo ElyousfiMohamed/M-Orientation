@@ -8,7 +8,7 @@
       <div class="card service-wrapper rounded border-0 shadow p-4">
         <div class="icon text-center text-custom h1 shadow rounded bg-white">
         </div>
-        <div class="content mt-4">
+        <div class="content mt-4" id="saved" #saved>
           <h1 class="result"><b>Domaine recommandé : <span style="color: #4FC3F7">{{result!.resultat}}</span></b></h1>
           <div class="conteneur">
             <div class="row">
@@ -35,6 +35,7 @@
             </div>
           </div>
         </div>
+        <div class="d-flex align-content-center justify-content-center" (click)="genererPDF()"><button class="btn btn-primary">sauvegarder votre résultat</button></div>
       </div>
     </div>
   </div><!--end col-->

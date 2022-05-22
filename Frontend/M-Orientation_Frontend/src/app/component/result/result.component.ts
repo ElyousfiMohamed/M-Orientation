@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute, Params} from '@angular/router';
 import {Output} from "../../model/output";
-import {ChartService} from "../../service/chart.service";
 
 @Component({
   selector: 'app-result',
@@ -16,5 +15,4 @@ export class ResultComponent implements OnInit {
   ngOnInit(): void {
     this.route.params.subscribe((params: Params) => this.result.resultat = params['resultat']);
   }
-
 }
