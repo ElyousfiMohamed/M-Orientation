@@ -1,0 +1,2270 @@
+[
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école",
+    "d_abac": "Informatique",
+    "inf_choix": "Passion depuis mon enfance"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "BTS",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "ÉCOLE NORMALE SUPÉRIEURE",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ÉCONOMIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "FST",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC TECHNIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Passion"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Industrie",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "+45",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École de Gestion Privée",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Fst",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC TECHNIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Je ne souhaite pas le préciser",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC LETTRES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Agriculture",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté des sciences et techniques",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "It was kinda forced on me in a way, I didn't have another option so I went with it"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC TECHNIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "ISCAE",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Ville de résidence"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ÉCONOMIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "FSTE",
+    "d_abac": "Industrie",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES MÉCANIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Industrie",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "BTS",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SCIENCES HUMAINES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ville de résidence"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Pour trouver du travail après les études"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Cpge puis encg",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Culturel",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "35 à 45",
+    "fi_bac": "BAC TECHNIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "FST",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "2 ans dans EST 3eme année à la FSJES",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SCIENCES HUMAINES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Culturel",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "35 à 45",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "35 à 45",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ÉCONOMIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Industrie",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Culturel",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC LETTRES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Institue",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "La réussite au concour"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Industrie",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "La mention du bac + plus de chance a  travaillerai"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Industrie",
+    "inf_choix": "Dernier choix"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Industrie",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC TECHNIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC LETTRES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ÉCONOMIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC LETTRES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC TECHNIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SCIENCES HUMAINES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ecole"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "35 à 45",
+    "fi_bac": "BAC LETTRES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Agriculture",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES ÉLECTRIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Culturel",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "CPGE",
+    "d_abac": "Informatique",
+    "inf_choix": "Context mondial où  la technologie  prend une place indispensable"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Grande école (Ingénierie)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ET TECHNOLOGIES MÉCANIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Ville de résidence"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "SCIENCES HUMAINES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "35 à 45",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Grande école & faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SCIENCES HUMAINES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SCIENCES HUMAINES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Université",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES ÉCONOMIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "35 à 45",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Très Bien (16/20 à 20/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Informatique",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "+45",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Scientifique (Chimie, Biologie, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Amis"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC LETTRES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "SCIENCES HUMAINES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "SVT BAC",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Droit",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Technique (Mécanique, électricité, …)",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Femme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "Institue",
+    "d_abac": "Médecine",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "École supérieure (EST, ENS, BTS, ...)",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES MATHÉMATIQUES",
+    "m_bac": "Assez bien (12/20 à 13.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "Choix personnel"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "25 à 35",
+    "fi_bac": "BAC SCIENCES ÉCONOMIQUES",
+    "m_bac": "Passable (10/20 à 11.9/20)",
+    "e_abac": "OFPPT",
+    "d_abac": "Économique (Marketing, Management, …)",
+    "inf_choix": "Famille"
+  },
+  {
+    "Sexe": "Homme",
+    "Age": "-25",
+    "fi_bac": "BAC SCIENCES PHYSIQUES",
+    "m_bac": "Bien (14/20 à 15.9/20)",
+    "e_abac": "Faculté",
+    "d_abac": "Informatique",
+    "inf_choix": "J'aime bien ce domaine"
+  }
+]

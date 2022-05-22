@@ -15,3 +15,7 @@ class Mail(BaseModel):
     name:str
     email:str
     message:str
+
+class Output(BaseModel):
+    resultat:str
+

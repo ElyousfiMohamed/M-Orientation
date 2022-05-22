@@ -1,28 +1,25 @@
 import {Component, Input, OnInit, ViewChild} from '@angular/core';
-import Chart from 'chart.js/auto'
 import {ChartService} from "../../service/chart.service";
+import Chart from "chart.js/auto";
 import {Output} from "../../model/output";
 
-
 @Component({
-  selector: 'app-chart-gender',
-  templateUrl: './chart-gender.component.html',
-  styleUrls: ['./chart-gender.component.css']
+  selector: 'app-chart-age',
+  templateUrl: './chart-age.component.html',
+  styleUrls: ['./chart-age.component.css']
 })
-export class ChartGenderComponent implements OnInit {
+export class ChartAgeComponent implements OnInit {
   canvas: any;
   ctx: any;
   @ViewChild('mychart') mychart: any;
   @Input() domaine: Output | undefined;
-
-  constructor(private chartService:ChartService) {
-  }
+  constructor(private chartService:ChartService) { }
 
   ngOnInit(): void {
   }
 
   ngAfterViewInit() {
-    this.chartService.getGenderStats(this.domaine!).subscribe({
+    this.chartService.getAgeStats(this.domaine!).subscribe({
       next : (data)=>{
         console.log(data)
         this.canvas = this.mychart.nativeElement;
@@ -33,17 +30,19 @@ export class ChartGenderComponent implements OnInit {
           data: {
             datasets: [{
               label: 'Current Vallue',
-              data: [data[0], data[1]],
+              data: [data[0], data[1],data[2],data[3]],
               backgroundColor: [
-                '#40DFEF',
-                '#FFC3C3'],
+                '#4FC3F7',
+                '#AED581',
+                '#FFD54F',
+                '#BDBDBD'],
             },],
-            labels: ['Homme','Femme']
+            labels: ['-25','25 à 35','35 à 45','+45']
           },options: {
             plugins: {
               title: {
                 display: true,
-                text: 'Sexe'
+                text: 'Age'
               }
             }
           }

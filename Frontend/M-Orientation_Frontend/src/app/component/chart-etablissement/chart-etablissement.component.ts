@@ -1,15 +1,14 @@
 import {Component, Input, OnInit, ViewChild} from '@angular/core';
-import Chart from 'chart.js/auto'
-import {ChartService} from "../../service/chart.service";
+import Chart from "chart.js/auto";
 import {Output} from "../../model/output";
-
+import {ChartService} from "../../service/chart.service";
 
 @Component({
-  selector: 'app-chart-gender',
-  templateUrl: './chart-gender.component.html',
-  styleUrls: ['./chart-gender.component.css']
+  selector: 'app-chart-etablissement',
+  templateUrl: './chart-etablissement.component.html',
+  styleUrls: ['./chart-etablissement.component.css']
 })
-export class ChartGenderComponent implements OnInit {
+export class ChartEtablissementComponent implements OnInit {
   canvas: any;
   ctx: any;
   @ViewChild('mychart') mychart: any;
@@ -20,9 +19,8 @@ export class ChartGenderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
   ngAfterViewInit() {
-    this.chartService.getGenderStats(this.domaine!).subscribe({
+    this.chartService.getEtablissementStats(this.domaine!).subscribe({
       next : (data)=>{
         console.log(data)
         this.canvas = this.mychart.nativeElement;
@@ -33,17 +31,21 @@ export class ChartGenderComponent implements OnInit {
           data: {
             datasets: [{
               label: 'Current Vallue',
-              data: [data[0], data[1]],
+              data: [data[0], data[1],data[2],data[3],data[4],data[5]],
               backgroundColor: [
-                '#40DFEF',
-                '#FFC3C3'],
+                '#4FC3F7',
+                '#AED581',
+                '#FFD54F',
+                '#BDBDBD',
+                '#9575CD',
+                '#E57373'],
             },],
-            labels: ['Homme','Femme']
+            labels: ['Faculté','Grande école','École supérieure (EST, ENS, BTS, ...)','CPGE','OFPPT','Institue']
           },options: {
             plugins: {
               title: {
                 display: true,
-                text: 'Sexe'
+                text: 'Etablissement après bac'
               }
             }
           }

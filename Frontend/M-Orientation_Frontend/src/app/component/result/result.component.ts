@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {ActivatedRoute, Params} from '@angular/router';
 import {Output} from "../../model/output";
+import {ChartService} from "../../service/chart.service";
 
 @Component({
   selector: 'app-result',

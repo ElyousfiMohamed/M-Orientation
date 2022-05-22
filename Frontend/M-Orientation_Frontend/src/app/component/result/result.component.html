@@ -9,23 +9,28 @@
         <div class="icon text-center text-custom h1 shadow rounded bg-white">
         </div>
         <div class="content mt-4">
-          <h1 class="result"><b>Domaine recommandé : {{result!.resultat}}</b></h1>
+          <h1 class="result"><b>Domaine recommandé : <span style="color: #4FC3F7">{{result!.resultat}}</span></b></h1>
           <div class="conteneur">
             <div class="row">
-              <div class="col">
-                <app-chart-gender></app-chart-gender>
+              <div class="col" style="border: 0 !important;">
+                <app-chart-gender [domaine]="result"></app-chart-gender>
               </div>
               <div class="col">
-                chart2
+                <app-chart-age [domaine]="result"></app-chart-age>
               </div>
             </div>
 
-            <div class="row">
-              <div class="col">
-                chart3
+            <div class="row" style="margin-top: 60px;">
+              <div class="col" style="border:0">
+                <app-chart-mention [domaine]="result"></app-chart-mention>
               </div>
               <div class="col">
-                chart4
+                <app-chart-etablissement [domaine]="result"></app-chart-etablissement>
+              </div>
+            </div>
+            <div class="row" style="margin-top: 60px;">
+              <div class="col" style="border:0">
+                <app-chart-choix [domaine]="result"></app-chart-choix>
               </div>
             </div>
           </div>

@@ -21,6 +21,10 @@ import { MailSuccessComponent } from './component/mail-success/mail-success.comp
 import { MailFailedComponent } from './component/mail-failed/mail-failed.component';
 import { ResultComponent } from './component/result/result.component';
 import { ChartGenderComponent } from './component/chart-gender/chart-gender.component';
+import { ChartAgeComponent } from './component/chart-age/chart-age.component';
+import { ChartMentionComponent } from './component/chart-mention/chart-mention.component';
+import { ChartEtablissementComponent } from './component/chart-etablissement/chart-etablissement.component';
+import { ChartChoixComponent } from './component/chart-choix/chart-choix.component';
 
 
 @NgModule({
@@ -40,6 +44,10 @@ import { ChartGenderComponent } from './component/chart-gender/chart-gender.comp
     MailFailedComponent,
     ResultComponent,
     ChartGenderComponent,
+    ChartAgeComponent,
+    ChartMentionComponent,
+    ChartEtablissementComponent,
+    ChartChoixComponent,
   ],
     imports: [
         BrowserModule,
