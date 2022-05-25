@@ -25,6 +25,7 @@ import { ChartAgeComponent } from './component/chart-age/chart-age.component';
 import { ChartMentionComponent } from './component/chart-mention/chart-mention.component';
 import { ChartEtablissementComponent } from './component/chart-etablissement/chart-etablissement.component';
 import { ChartChoixComponent } from './component/chart-choix/chart-choix.component';
+import {NgxPaginationModule} from "ngx-pagination";
 
 
 @NgModule({
@@ -55,7 +56,8 @@ import { ChartChoixComponent } from './component/chart-choix/chart-choix.compone
         ReactiveFormsModule,
         FormsModule,
         HttpClientModule,
-        RecaptchaModule
+        RecaptchaModule,
+        NgxPaginationModule
     ],
   providers: [InputsService],
   bootstrap: [AppComponent]

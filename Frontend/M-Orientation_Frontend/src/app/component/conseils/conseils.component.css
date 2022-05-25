@@ -160,3 +160,12 @@
   font-size: 1.8rem;
 }
 
+.pagination {
+  background-color: #fafafa;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 700px;
+  padding-top: 8px;
+  border-radius: 3px;
+}
